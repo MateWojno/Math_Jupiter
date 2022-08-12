@@ -1,0 +1,13 @@
+https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols
+
+https://gtribello.github.io/mathNET/assets/notebook-writing.html
+
+https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits
+
+https://www.overleaf.com/learn/latex/Line_breaks_and_blank_spaces
+
+https://www.overleaf.com/learn/latex/Brackets_and_Parentheses
+
+http://www.emerson.emory.edu/services/latex/latex_119.html
+
+https://personal.math.ubc.ca/~pwalls/math-python/jupyter/latex/
